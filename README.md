@@ -14,3 +14,4 @@ Python 学习手册（中文第五版）勘误及讨论。
 | 394 | 第 13 章 | 第 1 行 `while ((x = next()) != NULL)` 更正为 `while ((x = next(obj)) != NULL)` | 印刷错误 | [**jpch89**](https://github.com/jpch89) | 2018-12-31 | 待更新 |
 | 572 | 第 19 章 | 倒数第 2 行 “程序的禾响应时间” 更正为 “程序的响应时间” | 印刷错误 | [**jpch89**](https://github.com/jpch89) | 2019-1-7 | 待更新 |
 | 594 | 第 20 章 | 第二段代码的倒数第二行注释，`# Parens optional` 更正为 `# Parens required` | 印刷错误 | [**jpch89**](https://github.com/jpch89) | 2019-1-7 | 待更新 |
+| 665 | 第 22 章 | 第 2 行，“python” 更正为 “Python” | 印刷错误 | [**jpch89**](https://github.com/jpch89) | 2019-1-8 | 待更新 |
