@@ -16,3 +16,4 @@ Python 学习手册（中文第五版）勘误及讨论。
 | 572 | 第 19 章 | 倒数第 2 行 “程序的禾响应时间” 更正为 “程序的响应时间” | 印刷错误 | [**jpch89**](https://github.com/jpch89) | 2019-1-7 | 待更新 |
 | 594 | 第 20 章 | 第二段代码的倒数第二行注释，`# Parens optional` 更正为 `# Parens required` | 印刷错误 | [**jpch89**](https://github.com/jpch89) | 2019-1-7 | 待更新 |
 | 665 | 第 22 章 | 第 2 行，“python” 更正为 “Python” | 印刷错误 | [**jpch89**](https://github.com/jpch89) | 2019-1-8 | 待更新 |
+| 1216 | 第 38 章 | 第 8 行，\_\_setattr\_\_函数需整体缩进与\_\_getattr\_\_函数对齐 | 印刷错误 | [**xmindgo**](https://github.com/xmindgo) | 2019-1-8 | 待更新 |
